@@ -14,8 +14,10 @@ height: 100vh;
 overflow: hidden;
  
 }
-h3{
+header{
     color: hsl(218, 44%, 22%);
+   font-weight:700;
+   font-size: 1.5rem ;
 }
 img{
     border-radius: 16px;
@@ -29,7 +31,7 @@ img{
     border-radius: 13px;
     max-width: 280px;
     font-family: outfit;
-    font-weight: 400 , 700 ;
+    font-weight: 400;
     background-color: hsl(0, 0%, 100%);
     line-height: 1.3;
 }
@@ -42,12 +44,20 @@ p{
 
 @media screen and (max-width:1440px){
     .content{
-        font-size: 100%;
+font-size: 100%;
+align-items: center;
+align-content: center;
+justify-content: center;
+text-align: center;
     }
 }
 @media screen and (min-width:375px){
     .content{
-        font-size: 100%;  
+font-size: 100%; 
+align-items: center;
+align-content: center;
+justify-content: center;
+text-align: center;
       }
 
 }
