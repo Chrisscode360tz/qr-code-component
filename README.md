@@ -28,4 +28,4 @@ This challenge was a great way to practice structural HTML and use CSS Flexbox t
 
 ## 🧑‍💻 Author
 
-- Frontend Mentor - [@ychrisscode](https://www.frontendmentor.io/profile/@alexchridtopherB)
+- Frontend Mentor - [@Alex Christopher](https://www.frontendmentor.io/profile/@alexchridtopherB)

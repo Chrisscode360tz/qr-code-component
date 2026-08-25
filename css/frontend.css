@@ -5,19 +5,21 @@ html {
 body {
 display: flex;
 align-items: center;
-align-content: center;
 justify-content: center;
 text-align: center;
 padding: 1.5rem;
 flex-direction: column;
-height: 100vh;
-overflow: hidden;
+min-height: 100vh;
  
 }
-header{
+h1{
     color: hsl(218, 44%, 22%);
    font-weight:700;
-   font-size: 1.5rem ;
+   font-size: 20px;
+   word-spacing: 1.5px;
+   width: 255px;
+   padding: 10px;
+   margin: 0;
 }
 img{
     border-radius: 16px;
@@ -25,39 +27,34 @@ img{
     width: 100%;
 }
 .content{
-    gap: 20px;
     border:1px solid white;
-    padding: 20px;
+    padding: 15px;
     border-radius: 13px;
     max-width: 280px;
     font-family: outfit;
     font-weight: 400;
     background-color: hsl(0, 0%, 100%);
-    line-height: 1.3;
 }
 p{
+    margin: 0;
     color: hsl(216, 15%, 48%);
     font-size: 15px;
+    width: 250px;
+    word-spacing: 1.5px;
+    padding: 10px;
 }
 .attribution { font-size: 0.6875rem; text-align: center; }
  .attribution a { color: hsl(228, 45%, 44%); }
 
 @media screen and (max-width:1440px){
     .content{
-font-size: 100%;
-align-items: center;
-align-content: center;
-justify-content: center;
-text-align: center;
+
     }
 }
 @media screen and (min-width:375px){
-    .content{
-font-size: 100%; 
-align-items: center;
-align-content: center;
-justify-content: center;
-text-align: center;
+    .h1{
+        d
+      
       }
 
 }
