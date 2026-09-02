@@ -1,31 +1,38 @@
-# 📱 Frontend Mentor - QR code component solution
+## 📱 Frontend Mentor - QR Code component 
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
-Frontend Mentor challenges help you improve your coding skills by building realistic projects. 🚀
+This is my solution to the QR Code Component challenge from Frontend Mentor.
 
-## 📑 Table of contents
+I built this project using HTML and CSS, focusing on semantic HTML, Flexbox, responsive layout and styling according to challenge requirements. 🚀
 
-- [Overview](#overview)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+## 🧱 See Finished Result 
 
+![QR Code Component](image.png)
 
+## 📑 See More Content
 
-## 🛠️ My process
+- [live site] (https://qrbyalex.netlify.app)
+- [Frontend Mentor challenge] (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-### 🧱 Built with
-
+## 🛠️ Built with
 - 🏗️ Semantic HTML markup
-- 🎨 CSS custom properties
+- 🎨 CSS3
 - 📦 Flexbox
 
-### 🧠 What I learned
+## 🧠 What I learned
 
-This challenge was a great way to practice structural HTML and use CSS Flexbox to perfectly center the card on the screen. ✨
+While building this project, I practiced using Flexbox to center the component horizontally and vertically .
+
+I also learned how to create responsive layouts using CSS media queries and how to structure HTML using semantic elements.✨
+ 
+## 💪 Challenges
+
+One of the challenges I faced was making the component stay centered and responsive on different screen sizes.
+
+I solved this using Flexbox and adjusting the layout with CSS.
+
+## 🚀 Future Improvements
+
+I would like to improve my understanding of responsive spacing and typography in future projects and practice more and more.
 
 ## 🧑‍💻 Author
-
-- Frontend Mentor - [@Alex Christopher](https://www.frontendmentor.io/profile/@alexchridtopherB)
+- Frontend Mentor - [@Alex Christopher](https://www.frontendmentor.io/profile/Chrisscode360tz)
